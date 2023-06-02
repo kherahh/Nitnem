@@ -3,6 +3,19 @@
 	"Version_Type": "Optional",
 	"UsersMin": "50",
 	"Users": "200",
+	"AudioLinks": [{
+		"Heading": "Harminder Sahib, Amritsar (Live)",
+		"Source": "Source: SGPC",
+		"Url": "https://live.sgpc.net:8443/;nocache=889869"
+	}, {
+		"Heading": "Manji Sahib Katha Today",
+		"Source": "Source: SGPC",
+		"url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/katha.mp3"
+	}, {
+		"Heading": "Mukh wak Harminder Sahib, Amritsar",
+		"Source": "Source: SGPC",
+		"url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/hukamnama.mp3"
+	}],
 	"Message": "Waheguru ji ka khalsa!!\nWaheguru ji ki fateh!!\nNew Gurbani added in new version  &lt; ",
 	"MainActivity": "slok ] sMq auDrx dieAwlµ AwsrM gopwl kIrqnh ] inrmlµ sMq sMgyx Et nwnk prmysurh ]1] cMdn cMdu n srd ruiq mUil n imteI GWm ] sIqlu QIvY nwnkw jpMdVo hir nwmu ]2]",
 	"AlertDetail": "<font color='#ff9933'></font> <br/><font color='#38777A'></font>slok ] sMq auDrx dieAwlµ AwsrM gopwl kIrqnh ] inrmlµ sMq sMgyx Et nwnk prmysurh ]1] cMdn cMdu n srd ruiq mUil n imteI GWm ] sIqlu QIvY nwnkw jpMdVo hir nwmu ]2]"
