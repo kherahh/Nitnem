@@ -6,18 +6,22 @@
 	"AudioLinks": [{
 			"Heading": "Sri Harmandir Sahib, Amritsar (Live)",
 			"Source": "Source: SGPC",
-			"Url": "https://live.sgpc.net:8443/;nocache=889869"
+			"Url": "https://live.sgpc.net:8443/;nocache=889869",
+			"Image": ""
 		}, {
 			"Heading": "Mukhwak Harmandir Sahib, Amritsar",
 			"Source": "Source: SGPC",
-			"Url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/hukamnama.mp3"
+			"Url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/hukamnama.mp3",
+			"Image": ""
 		},
 		{
 			"Heading": "Daily Manji Sahib Katha",
 			"Source": "Source: SGPC",
-			"Url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/katha.mp3"
+			"Url": "https://old.sgpc.net/hukumnama/jpeg%20hukamnama/katha.mp3",
+			"Image": ""
 		}
 	],
+	"CommonImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/2560px-The_Golden_Temple_of_Amrithsar_7.jpg",
 	"Message": "Waheguru ji ka khalsa!!\nWaheguru ji ki fateh!!\nNew Gurbani added in new version  &lt; ",
 	"MainActivity": "slok ] sMq auDrx dieAwlµ AwsrM gopwl kIrqnh ] inrmlµ sMq sMgyx Et nwnk prmysurh ]1] cMdn cMdu n srd ruiq mUil n imteI GWm ] sIqlu QIvY nwnkw jpMdVo hir nwmu ]2]",
 	"AlertDetail": "<font color='#ff9933'></font> <br/><font color='#38777A'></font>slok ] sMq auDrx dieAwlµ AwsrM gopwl kIrqnh ] inrmlµ sMq sMgyx Et nwnk prmysurh ]1] cMdn cMdu n srd ruiq mUil n imteI GWm ] sIqlu QIvY nwnkw jpMdVo hir nwmu ]2]"
